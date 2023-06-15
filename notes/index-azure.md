@@ -13,3 +13,4 @@ title: Azure
 
 - [[azure-vpn-gateway]]
 - [[azure-expressroute]]
+- [[azure-virtual-network]]
