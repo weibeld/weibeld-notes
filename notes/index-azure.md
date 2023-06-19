@@ -8,6 +8,7 @@ title: Azure
 
 - [[azure-active-directory]]
 - [[azure-policy]]
+- [<<>>](azure-resource-hierarchy.md)
 
 ## Networking
 
