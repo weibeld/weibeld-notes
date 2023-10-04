@@ -8,7 +8,8 @@ title: Azure
 
 - [[azure-active-directory]]
 - [[azure-policy]]
-- [<<>>](azure-resource-hierarchy.md)
+- [](azure-resource-hierarchy.md)
+- [](azure-vpn-gateway.md)
 
 ## Networking
 

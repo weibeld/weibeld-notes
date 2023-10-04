@@ -16,3 +16,4 @@ Support for assigning tags at the time the resource is created:
 | Security Group     | No              |
 | Subnet             | No              |
 | VPC                | No              |
+

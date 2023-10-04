@@ -1,8 +1,9 @@
 ---
 created: 2023-06-12T19:22:54+02:00
 edited: 2023-06-12T19:22:54+02:00
-title: Azure Policy
 ---
+
+# Azure Policy
 
 - Service for enforcing rules on resources
 - Examples:
@@ -11,4 +12,9 @@ title: Azure Policy
   - Only allow creating resources in certain locations
   - Require certain tags for all resources
 
-Related: [[azure-active-directory]]
+## Appendix
+
+### See also
+
+1. [](azure-active-directory)
+
