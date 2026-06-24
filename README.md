@@ -2,6 +2,8 @@
 
 ## Notes repository overview
 
+- [weibeld/pkms](https://github.com/weibeld/pkms)
+    - Notes and events (most recent)
 - [weibeld/TODO-notes-old](https://github.com/weibeld/TODO-notes-old)
     - Desk-drawer-shelf vault with public notes
 - [weibeld/notes-private](https://github.com/weibeld/notes-private)
